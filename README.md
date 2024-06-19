@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spandan Priyam Chetia</h1>
 <h3 align="center">A fullstack developer driven by a passion for web design</h3>
 
-<img align="right" alt="coding" width="400" src="[https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=medi](https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif)a">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/5403918-Focus?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Focus&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Focus&utm_medium=Social_Share">
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **spandanpriyam296@gmail.com**
