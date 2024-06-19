@@ -5,22 +5,26 @@
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1500">
 </p>
-<h3 align="center">A Fullstack Developer driven by a passion for web design</h3>
+
+<h3 align="center">About Me</h3>
+
+<p align="center">A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.</p>
 
 <div style="display: flex; align-items: center;">
   <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
   <div>
-- 🌱 I’m currently learning **Flutter**
+    - 🌱 I’m currently learning **Flutter**
+    - 📫 How to reach me **spandanpriyam296@gmail.com**
 
-- 📫 How to reach me **spandanpriyam296@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+      <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/thespandanpriyam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thespandanpriyam/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ghostrider22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ghostrider22/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/spandanprp43q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/spandanprp43q/" height="30" width="40" /></a>
 </p>
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,11 +44,21 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/> </a> 
-<a><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS-Code" height="42" width="42"></a>
+  <a><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS-Code" height="42" width="42"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spandanchetia&show_icons=true&locale=en&layout=compact" alt="spandanchetia" /></p>
+<h3 align="left">Statistics:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" /></p>
+<h3 align="left">Languages Used:</h3>
+<p >&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
+</p>
+
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&" alt="spandanchetia" /></p>
