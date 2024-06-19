@@ -1,35 +1,37 @@
-<h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center">
-</h1>
+# Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center">
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 </p>
 
-<h3 align="center">About Me</h3>
+## About Me
 
-<p align="center">A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.</p>
+A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.
 
-<div style="display: flex; align-items: center;">
-  <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
-  <div>
-    - 🌱 I’m currently learning **Flutter**
-    - 📫 How to reach me **spandanpriyam296@gmail.com**
-
-<p align="left">
-      <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thespandanpriyam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thespandanpriyam/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ghostrider22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ghostrider22/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/spandanprp43q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/spandanprp43q/" height="30" width="40" /></a>
-</p>
-  </div>
+<div style="display: flex; justify-content: space-between; flex-direction: row;">
+<div>
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
+- 🌱 I’m currently learning **Flutter**
+- 📫 How to reach me: **spandanpriyam296@gmail.com**
+
+</div>
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/thespandanpriyam/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ghostrider22/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/spandanprp43q/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+</p>
+
+
 
 <!-- Programming Languages -->
 <div>
+  <h2 align="left">Languages and Tools:</h2>
   <h3>Programming Languages</h3>
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/> </a> 
@@ -79,22 +81,27 @@
   </p>
 </div>
 
+<div align="center">
 
-
-<h3 align="center">Statistics:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
+### Statistics
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
 </p>
 
-<h3 align="center">Languages Used:</h3>
-<p align="center">;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
+### Languages Used
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=compact" alt="spandanchetia" />
 </p>
 
-<h3 align="center">Steak:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&" alt="spandanchetia" />
+### Streak
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia" alt="spandanchetia" />
 </p>
+
+</div>
+
+
+
 
 
 
