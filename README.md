@@ -26,11 +26,11 @@
   </div>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <!-- Programming Languages -->
 <div>
-  <h2>Programming Languages</h2>
+  <h3>Programming Languages</h3>
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/> </a> 
@@ -40,7 +40,7 @@
 
 <!-- Frontend Technologies -->
 <div>
-  <h2>Frontend</h2>
+  <h3>Frontend</h3>
   <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="Angular" width="42" height="42"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" width="42" height="42"/> </a> 
@@ -55,7 +55,7 @@
 
 <!-- Backend Technologies -->
 <div>
-  <h2>Backend</h2>
+  <h3>Backend</h3>
   <p align="left"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/> </a> 
@@ -65,7 +65,7 @@
 
 <!-- Other Tools -->
 <div>
-  <h2>Other Tools</h2>
+  <h3>Other Tools</h3>
   <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/> </a> 
   </p>
@@ -73,7 +73,7 @@
 
 <!-- IDE -->
 <div>
-  <h2>IDE</h2>
+  <h3>IDE</h3>
   <p align="left"> 
     <a><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS Code" height="42" width="42"></a>
   </p>
