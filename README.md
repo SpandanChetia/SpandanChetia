@@ -87,17 +87,17 @@
 
 <div align="center">
 
-### Statistics
+# Statistics
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
 </p>
 
-### Languages Used
+## Languages Used
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=compact" alt="spandanchetia" />
 </p>
 
-### Streak
+## Streak
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia" alt="spandanchetia" />
 </p>
