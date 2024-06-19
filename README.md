@@ -87,7 +87,7 @@
 
 <div align="center">
 
-# Statistics
+## Statistics
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en&theme=outrun" alt="spandanchetia" />
 </p>
