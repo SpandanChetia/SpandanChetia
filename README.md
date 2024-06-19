@@ -1,17 +1,21 @@
-# Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center">
+<div align="center">
+  <h1> Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center"> </h1>
+</div>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 </p>
 
-## About Me
+<div align="center">
+<h1> About Me </h1>
 
-A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.
-
-<div style="display: flex; justify-content: space-between; flex-direction: row;">
+<p>A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.</p>
 <div>
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
 </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-direction: row;">
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: **spandanpriyam296@gmail.com**
