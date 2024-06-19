@@ -7,14 +7,16 @@
 </p>
 <h3 align="center">A Fullstack Developer driven by a passion for web design</h3>
 
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div style="display: flex; align-items: center;">
+  <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
+  <div>
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **spandanpriyam296@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/thespandanpriyam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thespandanpriyam/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ghostrider22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ghostrider22/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/spandanprp43q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/spandanprp43q/" height="30" width="40" /></a>
