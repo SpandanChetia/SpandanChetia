@@ -47,18 +47,21 @@
   <a><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS-Code" height="42" width="42"></a>
 </p>
 
-<h3 align="left">Statistics:</h3>
+<h3 align="center">Statistics:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
 </p>
 
-<h3 align="left">Languages Used:</h3>
-<p >&nbsp;
+<h3 align="center">Languages Used:</h3>
+<p align="center">;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en" alt="spandanchetia" />
+</p>
+
+<h3 align="center">Steak:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&" alt="spandanchetia" />
 </p>
 
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&" alt="spandanchetia" /></p>
