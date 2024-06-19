@@ -9,7 +9,7 @@
 <div align="center">
 <h1> About Me </h1>
 
-<p>A Computer Science student at NIT Silchar, Assam, India, interested in Fullstack and App Development.</p>
+<p>I am originally from Sivasagar, currently pursuing Computer Science Engineering at NIT Silchar. My passion lies in Fullstack Web Development and Mobile App Development. I'm enthusiastic about exploring new technologies. Feel free to connect with me to discuss tech, projects, or anything exciting in the world of software development!</p>
 <div>
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="padding-left: 20px;">
 </div>
