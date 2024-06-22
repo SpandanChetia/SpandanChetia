@@ -40,11 +40,25 @@
   <h2 align="left">Languages and Tools:</h2>
   <h3>Programming Languages</h3>
   <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"  style="padding-right:2px"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"  style="padding-right:2px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/js/js.svg" alt="JavaScript" width="42" height="42"  style="padding-right:2px"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+      <span style="padding-right: 5px;"> <!-- Adjust padding as needed -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/> 
+      </span>
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <span style="padding-right: 5px;"> <!-- Adjust padding as needed -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/> 
+      </span>
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <span style="padding-right: 5px;"> <!-- Adjust padding as needed -->
+        <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/js/js.svg" alt="JavaScript" width="42" height="42"/> 
+      </span>
+    </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" alt="TypeScript" width="42" height="42" style="padding-right:2px"/> 
+      <span style="padding-right: 5px;"> <!-- Adjust padding as needed -->
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript.svg" alt="TypeScript" width="42" height="42"/> 
+      </span>
     </a>
   </p>
 </div>
