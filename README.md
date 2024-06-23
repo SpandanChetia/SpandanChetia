@@ -169,17 +169,17 @@
     <tr>
       <td style="background-color: #f0f0f0; padding: 10px;">
         <h2 align="left">Statistics</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en&theme=outrun" alt="spandanchetia" />
+        <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en&theme=buefy" alt="spandanchetia" />
       </td>
       <td style="background-color: #f0f0f0; padding: 10px;">
         <h2 align="left">Language Used</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=donut&theme=outrun" alt="spandanchetia" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=donut&theme=buefy" alt="spandanchetia" />
       </td>
     </tr>
   </table>
 
   <p align="center" style="background-color: #f0f0f0; padding: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&theme=outrun" alt="outrun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&theme=buefy" alt="steak" />
   </p>
 </div>
 
