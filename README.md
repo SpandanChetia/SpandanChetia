@@ -36,7 +36,7 @@
 
 
 <!-- Programming Languages -->
-<div>
+<div style="display:flex; flex-direction:row; justify-content:space-around">
   <h2 align="left">Languages and Tools:</h2>
   <h3>Programming Languages</h3>
   <p align="left"> 
@@ -60,6 +60,12 @@
         <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript.svg" alt="TypeScript" width="42" height="42"/> 
       </span>
     </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <span style="padding-right: 5px;"> <!-- Adjust padding as needed -->
+    <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.svg" alt="Python" width="42" height="42"/> 
+  </span>
+</a>
+
   </p>
 </div>
 
