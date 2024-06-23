@@ -178,7 +178,7 @@
     </tr>
   </table>
 
-  <p align="left" style="background-color: #f0f0f0; padding: 10px;">
+  <p align="center" style="background-color: #f0f0f0; padding: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanchetia&theme=outrun" alt="outrun" />
   </p>
 </div>
