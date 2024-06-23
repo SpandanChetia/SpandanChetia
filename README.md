@@ -48,12 +48,12 @@
   <tr>
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+        <img src="https://github.com/resyfer/resyfer/blob/main/img/c.svg" alt="C" width="42" height="42"/>
       </a>
     </td>
     <td>
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+        <img src="https://github.com/resyfer/resyfer/blob/main/img/cpp.svg" alt="C++" width="42" height="42"/>
       </a>
     </td>
     <td>
