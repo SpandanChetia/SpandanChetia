@@ -156,7 +156,7 @@
   <tr>
     <td>
       <a>
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VS Code" height="42" width="42"/>
+        <img src="https://github.com/resyfer/resyfer/blob/main/img/vscode.svg" alt="VS Code" height="42" width="42"/>
       </a>
     </td>
   </tr>
