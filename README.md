@@ -174,7 +174,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=spandanchetia&show_icons=true&locale=en&theme=buefy" alt="spandanchetia" />
       </td>
       <td style="background-color: #f0f0f0; padding: 10px;">
-        <h2 align="left">Language Used</h2>
+        <h2 align="left">Languages Used</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=donut&theme=buefy" alt="spandanchetia" />
       </td>
     </tr>
