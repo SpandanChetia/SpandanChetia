@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: space-between; flex-direction: row;">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"> 
-  <h1> Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center"> </h1>
+  <img src="./img/banner.png" width="100%"> 
+  <h1> Hi <img src="./img/hi-gif.gif" width="35" align="center">, I'm Spandan Priyam Chetia <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35" align="center"> </h1>
 </div>
 
 <!--
