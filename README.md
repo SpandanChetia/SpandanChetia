@@ -157,7 +157,7 @@
 <table>
   <tr>
     <td>
-      <a title="VS Code">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS-Code">
         <img src="./img/vscode.svg" alt="VS Code" height="42" width="42"/>
       </a>
     </td>
