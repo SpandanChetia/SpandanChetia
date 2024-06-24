@@ -8,12 +8,19 @@
 
 <p>I am originally from Sivasagar, Assam, currently pursuing Computer Science Engineering at National Institute of Technology, Silchar. My passion lies in Fullstack Web Development and Mobile App Development. I'm enthusiastic about exploring new technologies. Feel free to connect with me to discuss tech, projects, or anything exciting in the world of software development!</p>
 </div>
-
-> [!NOTE]\
-> 🌱 I’m currently learning
-> How to reach me: <strong>spandanpriyam296@gmail.com</strong>
-
-<img alt="coding" width="400" src="./img/coding-gif.gif"/>
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning <strong>Flutter</strong></li>
+        <li>📫 How to reach me: <strong>spandanpriyam296@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img alt="coding" width="400" src="./img/coding-gif.gif"/>
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 
