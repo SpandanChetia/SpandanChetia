@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td>
-      <img alt="coding" width="400" src="/.img/coding-gif.gif"/>
+      <img alt="coding" width="400" src="./img/coding-gif.gif"/>
     </td>
   </tr>
 </table>
@@ -31,12 +31,14 @@
 
 ## Connect with me:
 
+<div align="left">
 <p>
   <a href="https://www.linkedin.com/in/spandan-priyam-chetia-284733250/" target="_blank"><img src="./img/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/thespandanpriyam/" target="_blank"><img src="./img/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="" target="_blank"><img src="./img/leetcode-light.png" alt="LeetCode" height="40" width="40" /></a>
+  <a href="" target="_blank"><img src="./img/leetcode-light.png" alt="LeetCode" height="30" width="30" /></a>
   
 </p>
+</div>
 
 
 
