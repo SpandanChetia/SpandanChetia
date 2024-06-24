@@ -42,7 +42,7 @@
 
 
 
-## Languages and Tools
+## Tech Stack
 
 ### Programming Languages
 
