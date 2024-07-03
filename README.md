@@ -95,11 +95,6 @@
       </a>
     </td>
     <td>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-        <img src="./img/bootstap.gif" alt="Bootstrap" width="42" height="42"/>
-      </a>
-    </td>
-    <td>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
         <img src="./img/tailwindcss.svg" alt="Tailwind CSS" width="42" height="42"/>
       </a>
