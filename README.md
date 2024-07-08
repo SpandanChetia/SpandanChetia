@@ -11,13 +11,13 @@
 <div>
 <h1 align="center"> About Me </h1>
 
-<p>I am from Assam, currently pursuing Computer Science Engineering at National Institute of Technology, Silchar. My passion lies in Fullstack Web Development and Mobile App Development. I'm enthusiastic about exploring new technologies. Feel free to connect with me to discuss tech, projects, or anything exciting in the world of software development!</p>
+<p>I am from Assam, currently pursuing Computer Science Engineering at National Institute of Technology, Silchar. My passion lies in Fullstack Web Development. I'm enthusiastic about exploring new technologies. Feel free to connect with me to discuss tech, projects, or anything exciting in the world of software development!</p>
 </div>
 <table align="center">
   <tr>
     <td>
       <ul>
-        <li>🌱 I’m currently learning <strong>Flutter</strong></li>
+        <li>🌱 I’m currently learning <strong>NextJS</strong></li>
         <li>📫 How to reach me: <strong>spandanpriyam296@gmail.com</strong></li>
       </ul>
     </td>
