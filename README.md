@@ -91,7 +91,7 @@
     </td>
     <td>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-        <img src="./img/css.gif" alt="CSS3" width="42" height="42"/>
+        <img src="./img/css.png" alt="CSS3" width="42" height="42"/>
       </a>
     </td>
     <td>
@@ -105,11 +105,6 @@
       </a>
     </td>
     <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-        <img src="./img/html.gif" alt="HTML5" width="42" height="42"/>
-      </a>
-    </td>
-    <td>
       <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" title="MaterialUI">
         <img src="./img/materialUI.png" alt="HTML5" width="42" height="42"/>
       </a>
@@ -117,6 +112,11 @@
     <td>
       <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
         <img src="./img/vite.png" alt="HTML5" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+        <img src="./img/html.png" alt="HTML5" width="42" height="42"/>
       </a>
     </td>
   </tr>
@@ -154,6 +154,11 @@
     <td>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="MySQL">
         <img src="./img/mysql.svg" alt="MySQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL">
+        <img src="./img/graphQL.png" alt="MySQL" width="42" height="42"/>
       </a>
     </td>
   </tr>
