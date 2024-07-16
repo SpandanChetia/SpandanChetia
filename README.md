@@ -147,6 +147,11 @@
       </a>
     </td>
     <td>
+      <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer" title="Mongoose">
+        <img src="./img/mongoose.png" alt="MySQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="PostgreSQL">
         <img src="./img/postgreSQL.png" alt="MySQL" width="42" height="42"/>
       </a>
