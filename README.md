@@ -137,6 +137,11 @@
       </a>
     </td>
     <td>
+      <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer" title="Pug">
+        <img src="./img/pug.png" alt="MySQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
         <img src="./img/mongo.svg" alt="MongoDB" width="42" height="42"/>
       </a>
