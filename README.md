@@ -109,6 +109,16 @@
         <img src="./img/html.gif" alt="HTML5" width="42" height="42"/>
       </a>
     </td>
+    <td>
+      <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" title="MaterialUI">
+        <img src="./img/materialUI.png" alt="HTML5" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
+        <img src="./img/vite.png" alt="HTML5" width="42" height="42"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -122,12 +132,22 @@
       </a>
     </td>
     <td>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
+        <img src="./img/express.png" alt="MySQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
         <img src="./img/mongo.svg" alt="MongoDB" width="42" height="42"/>
       </a>
     </td>
     <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="PostgreSQL">
+        <img src="./img/postgreSQL.png" alt="MySQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="MySQL">
         <img src="./img/mysql.svg" alt="MySQL" width="42" height="42"/>
       </a>
     </td>
