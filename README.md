@@ -147,8 +147,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="PostgreSQL">
-        <img src="./img/postgreSQL.png" alt="MySQL" width="42" height="42"/>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+        <img src="./img/mysql.svg" alt="MySQL" width="42" height="42"/>
       </a>
     </td>
     <td>
