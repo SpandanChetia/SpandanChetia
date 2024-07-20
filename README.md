@@ -175,7 +175,7 @@
     </td>
     <td>
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer" title="Netlify">
-        <img src="./img/netlify.svg" alt="Netlify" width="42" height="42"/>
+        <img src="./img/netlify.svg" alt="Netlify" width="82" height="42"/>
       </a>
     </td>
   </tr>
