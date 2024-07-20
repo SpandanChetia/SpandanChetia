@@ -168,6 +168,16 @@
         <img src="./img/git.svg" alt="Git" width="42" height="42"/>
       </a>
     </td>
+    <td>
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
+        <img src="./img/vercel.png" alt="Vercel" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer" title="Netlify">
+        <img src="./img/netlify.svg" alt="Netlify" width="42" height="42"/>
+      </a>
+    </td>
   </tr>
 </table>
 
