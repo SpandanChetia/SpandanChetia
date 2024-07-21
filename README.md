@@ -178,13 +178,11 @@
         <img src="./img/netlify.svg" alt="Netlify" width="82" height="42"/>
       </a>
     </td>
-  </tr>
-</table>
-
-### IDE
-
-<table>
-  <tr>
+    <td>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="VS-Code">
+        <img src="./img/postman.png" alt="Postman" height="42" width="42"/>
+      </a>
+    </td>
     <td>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS-Code">
         <img src="./img/vscode.svg" alt="VS Code" height="42" width="42"/>
@@ -192,6 +190,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div>
