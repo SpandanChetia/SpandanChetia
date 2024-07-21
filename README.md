@@ -179,7 +179,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="VS-Code">
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
         <img src="./img/postman.png" alt="Postman" height="42" width="42"/>
       </a>
     </td>
