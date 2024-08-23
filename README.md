@@ -203,7 +203,7 @@
       </td>
       <td style="background-color: #f0f0f0; padding: 10px;">
         <h2 align="left">Languages Used</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=donut&theme=buefy" alt="spandanchetia" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanchetia&layout=donut-vertical&theme=buefy" alt="spandanchetia" />
       </td>
     </tr>
   </table>
