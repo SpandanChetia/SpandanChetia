@@ -74,7 +74,7 @@
     </td>
     <td>
       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" title="Ruby">
-        <img src="./img/ruby.svg" alt="Ruby" width="42" height="42"/>
+        <img src="./img/Ruby.svg" alt="Ruby" width="42" height="42"/>
       </a>
     </td>
   </tr>
@@ -163,7 +163,7 @@
     </td>
     <td>
       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer" title="Ruby on Rails">
-        <img src="./img/rails.svg" alt="Rails" width="42" height="42"/>
+        <img src="./img/Rails.svg" alt="Rails" width="42" height="42"/>
       </a>
     </td>
   </tr>
