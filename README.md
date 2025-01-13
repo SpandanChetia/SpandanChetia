@@ -17,7 +17,7 @@
   <tr>
     <td>
       <ul>
-        <li>🌱 I’m currently learning <strong>NextJS & Typescript</strong></li>
+        <li>🌱 I’m currently learning <strong>Ruby & Ruby on Rails</strong></li>
         <li>📫 How to reach me: <strong>spandanpriyam296@gmail.com</strong></li>
       </ul>
     </td>
