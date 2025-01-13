@@ -72,6 +72,11 @@
         <img src="./img/python.svg" alt="Python" width="42" height="42"/>
       </a>
     </td>
+    <td>
+      <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" title="Ruby">
+        <img src="./img/ruby.svg" alt="Ruby" width="42" height="42"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -128,12 +133,12 @@
     </td>
     <td>
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
-        <img src="./img/express.png" alt="MySQL" width="42" height="42"/>
+        <img src="./img/express.png" alt="Express" width="42" height="42"/>
       </a>
     </td>
     <td>
       <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer" title="Pug">
-        <img src="./img/pug.png" alt="MySQL" width="42" height="42"/>
+        <img src="./img/pug.png" alt="Pug" width="42" height="42"/>
       </a>
     </td>
     <td>
@@ -143,7 +148,7 @@
     </td>
     <td>
       <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer" title="Mongoose">
-        <img src="./img/mongoose.png" alt="MySQL" width="42" height="42"/>
+        <img src="./img/mongoose.png" alt="Mongoose" width="42" height="42"/>
       </a>
     </td>
     <td>
@@ -153,7 +158,12 @@
     </td>
     <td>
       <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL">
-        <img src="./img/graphQL.png" alt="MySQL" width="42" height="42"/>
+        <img src="./img/graphQL.png" alt="GraphQL" width="42" height="42"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer" title="Ruby on Rails">
+        <img src="./img/rails.svg" alt="Rails" width="42" height="42"/>
       </a>
     </td>
   </tr>
